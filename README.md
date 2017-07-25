@@ -1,4 +1,4 @@
-# Algebraic Variety Models for High-Rank Matrix Completion (Code)
+# Algebraic Variety Models for High-Rank Matrix Completion
 
 MATLAB code to implement the variety-based matrix completion (VMC) algorithm described in the paper:
 
@@ -8,7 +8,7 @@ MATLAB code to implement the variety-based matrix completion (VMC) algorithm des
 
 The main file is `vmc.m`. To get started, see the example scripts:
 * `example_uos_sm.m` - Small-scale union-of-subspaces data
-* `example_uos_lrg.m - Large-scale union-of-subspaces data
+* `example_uos_lrg.m` - Large-scale union-of-subspaces data
 * `example_hopkins.m` - Small-scale example using Hopkins 155 dataset
 * `example_mocap.m`  - Large-scale example using CMU Mocap dataset 
 
